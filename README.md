@@ -16,3 +16,7 @@ Setting this up to run in a Github Codespace.
 7. selected the Run and Debug side menu and added a launch.json file with a Python configuration
 8. Tested that Hello World Runs properly
 9. Commited the changes to the repository. 
+10. In the terminal prompt the command to run the program is `$ python app.py`
+
+## Notes
+I used no external libraries so there is not requirements.txt
